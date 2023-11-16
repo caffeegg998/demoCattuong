@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/cat-tuong/static/css/main.66b50d99.css",
+    "main.js": "/cat-tuong/static/js/main.54cdd865.js",
+    "static/media/Mobile.png": "/cat-tuong/static/media/Mobile.a826e2c596d6f771bbe9.png",
+    "static/media/cloud.jpg": "/cat-tuong/static/media/cloud.36eb3c28173bf3cdb69c.jpg",
+    "static/media/Satelite.png": "/cat-tuong/static/media/Satelite.a9c357931337a1c44542.png",
+    "static/media/Jeptags.png": "/cat-tuong/static/media/Jeptags.9a83e1ccde976ed01ab6.png",
+    "static/media/logo.png": "/cat-tuong/static/media/logo.420c296b2e3f3315951b.png",
+    "static/media/resume.pdf": "/cat-tuong/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/Loiich3.png": "/cat-tuong/static/media/Loiich3.9b71e5ef3fe4ed10216d.png",
+    "static/media/musicapp.png": "/cat-tuong/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/sangche.svg": "/cat-tuong/static/media/sangche.0d4a0894a55f3c509a284118e6616b88.svg",
+    "static/media/boy.png": "/cat-tuong/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/Loiich1.png": "/cat-tuong/static/media/Loiich1.536117e8c9e853fd3742.png",
+    "static/media/Loiich2.png": "/cat-tuong/static/media/Loiich2.c54b4c94f22ff1a2d9d6.png",
+    "static/media/glassesimoji.png": "/cat-tuong/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Jeptagslogo.png": "/cat-tuong/static/media/Jeptagslogo.a145705fa9024a783ddd.png",
+    "static/media/Bestsky logo.png": "/cat-tuong/static/media/Bestsky logo.c87695191fe080e20f5f.png",
+    "static/media/thumbup.png": "/cat-tuong/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/cat-tuong/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/cat-tuong/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/cat-tuong/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/cat-tuong/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/cat-tuong/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/cat-tuong/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/cat-tuong/index.html",
+    "main.66b50d99.css.map": "/cat-tuong/static/css/main.66b50d99.css.map",
+    "main.54cdd865.js.map": "/cat-tuong/static/js/main.54cdd865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b50d99.css",
+    "static/js/main.54cdd865.js"
+  ]
+}
